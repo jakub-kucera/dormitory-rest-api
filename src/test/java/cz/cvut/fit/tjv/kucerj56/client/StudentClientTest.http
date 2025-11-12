@@ -14,8 +14,8 @@ POST http://localhost:8080/api/students
 Content-Type: application/json
 
 {
-"name": "Jakub Kučera",
-"dateOfBirth": 944934300,
+"name": "Jan Novák",
+"dateOfBirth": 946684800,
 "roomId": 6,
 "stateOfAccount": 1000000.0,
 "facultyIds": [8, 9]
@@ -28,7 +28,7 @@ Content-Type: application/json
 
 {
   "name": "Mr. Testik",
-  "dateOfBirth": 944934300,
+  "dateOfBirth": 946684800,
   "roomId": 7,
   "stateOfAccount": 1000.0,
   "facultyIds": [9]
