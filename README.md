@@ -1,6 +1,6 @@
 # Dormitory management REST API
 
-A course project for BI-TJV (Java Technologies) at FIT CTU, winter semester 2020/21. It is a small Spring Boot REST API for student dormitories. It manages the dormitories, their rooms, the students living in them and the faculties they study at. The command-line client for it is [BI-TJV-client](https://github.com/jakub-kucera/BI-TJV-client).
+A course project for BI-TJV (Java Technologies) at FIT CTU, winter semester 2020/21. It is a small Spring Boot REST API for student dormitories. It manages the dormitories, their rooms, the students living in them and the faculties they study at. The command-line client for it is [dormitory-rest-api-client](https://github.com/jakub-kucera/dormitory-rest-api-client).
 
 ## What it does
 
